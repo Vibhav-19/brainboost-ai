@@ -1,6 +1,8 @@
 streamlit==1.33.0
 pypdf==4.2.0
-sentence-transformers==2.6.1
+sentence-transformers==2.7.0
 faiss-cpu==1.13.0
-numpy==1.26.4
-groq==0.9.0
+numpy
+groq
+Pillow==10.3.0
+torch==2.2.2
